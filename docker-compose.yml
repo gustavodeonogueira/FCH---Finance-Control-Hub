@@ -6,6 +6,12 @@ services:
     container_name: backend
     ports:
       - "3000:3000"
+    
+    environment:
+        DB_HOST: db
+        DB_NAME: finance
+        DB_USER: postgres
+        DB_PASSWORD: postgres
     depends_on:
       - db
 
