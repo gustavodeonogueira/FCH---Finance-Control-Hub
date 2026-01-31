@@ -8,3 +8,4 @@ Este repositório apresenta um projeto prático de uma ferramenta de finanças.
 Seu objetivo é demonstrar os conhecimentos teóricos e práticos envolvidos em todo o processo realizado na área de Tecnologia da Informação para a implementação de um site.
 
 O projeto apresenta, de forma passo a passo, as etapas de desenvolvimento de frontend, backend, banco de dados, segurança, além de cloud e DevOps.
+
